@@ -1,0 +1,23 @@
+table{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    border-collapse: collapse;
+}
+td,th{
+    border: 2px solid #dddd ;
+    text-align: left;
+    padding: 8px;
+}
+.u{
+    width: 8%;
+background-color: yellow;
+}
+.p{
+    background-color: yellow;
+}
+div{
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 10%;
+    padding-right: 10%;
+}
