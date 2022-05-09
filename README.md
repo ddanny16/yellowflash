@@ -6,3 +6,4 @@ css
  h1 tag
  h2 tag
  paragragh
+ style.css
