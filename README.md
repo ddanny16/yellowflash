@@ -2,3 +2,4 @@
 html
 css
  no sass
+ no javascript
